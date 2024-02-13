@@ -10,10 +10,6 @@ database and [Axum](https://github.com/tokio-rs/axum) HTTP framework.
 - [Rust](https://www.rust-lang.org/tools/install)
 - [MongoDB](https://docs.mongodb.com/manual/installation/)
 
-### How to use this template
-
-To use this template as your project starting point, click "Use this template" at the top of this page, or click [here](https://github.com/ndelvalle/rustapi/generate).
-
 ### Feature highlights
 
 * Authentication. Based on [jsonwebtoken](https://github.com/Keats/jsonwebtoken)
